@@ -1,0 +1,11 @@
+{
+   "NAME": "ni_fixC_exp",
+   "NUM_LABELS": 4,
+   "NUM_TIMES": 50,
+   "NS": [10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100],
+   "FIX_C_SIZE": 50,
+   "UNIFY_SCALE" : true,
+   "RANDOM_SEED" : 12345,
+   "UNIFORM_SAMPLING": false,
+   "OUTPUT_ROOT": "/data/users/dzhu/estonian_thm_outputs"
+}

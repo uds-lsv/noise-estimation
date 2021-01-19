@@ -1,0 +1,10 @@
+{
+   "NAME": "n_exp",
+   "NUM_LABELS": 4,
+   "NUM_TIMES": 50,
+   "NS": [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000],
+   "UNIFY_SCALE" : true,
+   "RANDOM_SEED" : 12345,
+   "UNIFORM_SAMPLING": true,
+   "OUTPUT_ROOT": "/data/users/dzhu/estonian_thm_outputs"
+}
