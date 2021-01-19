@@ -3,7 +3,9 @@
 Additional material for the publication
 
 > Hedderich, Zhu and Klakow:
+>
 > Analysing the Noise Model Error for Realistic Noisy Label Data
+>
 > To appear at AAAI 2021
 
 
