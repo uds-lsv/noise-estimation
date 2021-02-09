@@ -7,6 +7,8 @@ Additional material for the publication
 > Analysing the Noise Model Error for Realistic Noisy Label Data
 >
 > To appear at AAAI 2021
+> 
+> https://arxiv.org/abs/2101.09763
 
 
 ## Structure
@@ -21,7 +23,7 @@ Please refer to the README files in each directory for additional information on
 
 ## Contact & Citations
 
-For more details, please refer to our publication. If you have any questions or if you run into any issues, feel free to contact us.
+For more details, please refer to our publication https://arxiv.org/abs/2101.09763. If you have any questions or if you run into any issues, feel free to contact us.
 
 When you work with this dataset, please consider citing us as
 
