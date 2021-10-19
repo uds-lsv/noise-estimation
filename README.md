@@ -6,9 +6,9 @@ Additional material for the publication
 >
 > Analysing the Noise Model Error for Realistic Noisy Label Data
 >
-> To appear at AAAI 2021
+> AAAI 2021
 > 
-> https://arxiv.org/abs/2101.09763
+> https://ojs.aaai.org/index.php/AAAI/article/view/16938
 
 
 ## Structure
@@ -28,11 +28,16 @@ For more details, please refer to our publication https://arxiv.org/abs/2101.097
 When you work with this dataset, please consider citing us as
 
 ```
-@inproceedings{hederich-etal-2021-noisemodelerror,
-    title = "Analysing the Noise Model Error for Realistic Noisy Label Data",
-    author = "Hedderich, Michael A. and  Zhu, Dawei and Klakow, Dietrich",
-    booktitle = "To appear at AAAI 2021"
+@inproceedings{hedderich2021analysing,
+  title={Analysing the Noise Model Error for Realistic Noisy Label Data},
+  author={Hedderich, Michael A and Zhu, Dawei and Klakow, Dietrich},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={9},
+  pages={7675--7684},
+  year={2021}
 }
+
 ```
 
 
