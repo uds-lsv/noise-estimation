@@ -31,7 +31,7 @@ Also, download the fastText word embedding for Estonian from [fastText embedding
 ### Data
 
 You can get the NoisyNER dataset from https://github.com/uds-lsv/NoisyNER Follow the instructoins there.
-Then rename NoisyNER_labelset{labeling_round}_train.tsv into estner_noisy_round0{labeling_round}.conll and estner_clean_train.tsv into estner_true.conll 
+Then rename NoisyNER_labelset{labeling_round}_all.tsv into estner_noisy_round0{labeling_round}.conll and estner_clean_train.tsv into estner_true.conll 
 
 ## [](#running)Running
 
